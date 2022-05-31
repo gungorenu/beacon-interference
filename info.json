@@ -1,0 +1,9 @@
+{
+  "name": "Beacon-Interference",
+  "version": "1.0.0",
+  "title": "Beacon Interference",
+  "author": "gungorenu",
+  "description": "Beacons have +2 tile range, doubled module slots (4) but will stall machines if multiple beacons affect machines. Forked from Beacon Overhaul",
+  "dependencies": ["base >= 1.1.0", "(?) gvv >= 0.5.1"],
+  "factorio_version": "1.1"
+}
